@@ -56,18 +56,68 @@ El servicio responderá con una lista de canciones que coincidan con los criteri
 
 ```json
 {
-  "results": [
-    {
-        "id": "1411628233",
-        "name": "Believer",
-        "artist": "Imagine Dragons",
-        "duration": "3:24",
-        "album": "Evolve",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/7a/b8/117ab805-6811-8929-18b9-0fad7baf0c25/17UMGIM98210.rgb.jpg/100x100bb.jpg",
-        "price": "GTQ 1.29",
-        "origin": "iTunes"
-    }
-  ]
+    "results": [
+        {
+            "id": "34",
+            "name": "Antologia",
+            "artist": "Shakira",
+            "duration": "4:14",
+            "album": "Pies Descalzos",
+            "artwork": "https://is2-ssl.mzstatic.com/image/thumb/Features114/v4/94/18/5e/94185e72-fc57-d3ad-51f6-485b8e188c21/dj.abqorqzf.jpg/100x100bb.jpg",
+            "price": "GTQ 1.29",
+            "origin": "iTunes"
+        },
+        {
+            "id": "35",
+            "name": "Antologia",
+            "artist": "Shakira",
+            "duration": "",
+            "album": "",
+            "artwork": "",
+            "price": "",
+            "origin": "ChartLyrics"
+        },
+        {
+            "id": "36",
+            "name": "Antologia",
+            "artist": "Shakira",
+            "duration": "4:03",
+            "album": "Shakira in Concert: El Dorado World Tour Live",
+            "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f7/90/e0/f790e0ba-3540-486c-0e3b-1f69a5a4e70a/886448111863.jpg/100x100bb.jpg",
+            "price": "GTQ 1.29",
+            "origin": "iTunes"
+        },
+        {
+            "id": "37",
+            "name": "Antologia",
+            "artist": "Shakira",
+            "duration": "4:13",
+            "album": "Asiento Reservado",
+            "artwork": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/a7/9f/e5/a79fe58b-ea7a-8970-51e1-2fb56506765c/886444202749.jpg/100x100bb.jpg",
+            "price": "GTQ 1.29",
+            "origin": "iTunes"
+        },
+        {
+            "id": "38",
+            "name": "Antología",
+            "artist": "Shakira",
+            "duration": "",
+            "album": "",
+            "artwork": "",
+            "price": "",
+            "origin": "ChartLyrics"
+        },
+        {
+            "id": "39",
+            "name": "Antología",
+            "artist": "Shakira",
+            "duration": "4:11",
+            "album": "Grandes Éxitos",
+            "artwork": "https://is3-ssl.mzstatic.com/image/thumb/Music/33/f6/64/mzi.dqdfppqd.jpg/100x100bb.jpg",
+            "price": "GTQ 1.29",
+            "origin": "iTunes"
+        }
+    ]
 }
 ```
 
