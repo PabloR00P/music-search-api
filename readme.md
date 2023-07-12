@@ -24,24 +24,31 @@ Sigue los pasos a continuación para ejecutar el servicio de búsqueda de cancio
 1. Clona el repositorio en tu máquina local:
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/PabloR00P/music-search-api.git
    ```
 
 2. Navega hasta la carpeta del proyecto:
 
    ```bash
-   cd <CARPETA_DEL_PROYECTO>
+   cd music-search-api
    ```
 
-3. Ejecuta el siguiente comando para construir las imágenes Docker y levantar los contenedores:
+3. Ir hacia la rama del proyecto /music-search-api
+
+   ```bash
+   git checkout project/music-search-api
+   ```
+
+4. Ejecuta el siguiente comando para construir las imágenes Docker y levantar los contenedores:
 
    ```bash
    docker-compose up
    ```
 
    Esto descargará las imágenes necesarias, creará los contenedores y ejecutará la aplicación en el puerto 8000.
+   
 
-4. Una vez que los contenedores se hayan levantado correctamente, podrás acceder al servicio de búsqueda de canciones en tu navegador web en la siguiente URL:
+5. Una vez que los contenedores se hayan levantado correctamente, podrás acceder al servicio de búsqueda de canciones en tu navegador web en la siguiente URL:
 
    ```
    http://localhost:8000
