@@ -33,7 +33,7 @@ Sigue los pasos a continuación para ejecutar el servicio de búsqueda de cancio
    cd music-search-api
    ```
 
-3. Ir hacia la rama del proyecto /music-search-api
+3. Ir hacia la rama del proyecto music-search-api
 
    ```bash
    git checkout project/music-search-api
